@@ -1,16 +1,12 @@
 body {
   height: fit-content;
-  margin: 0;
 }
 .mega-container {
   margin: auto;
-  width: 90%;
 }
 .container {
   display: grid;
   grid-template-columns: auto auto auto;
-  padding: 1%;
-  gap: 3%;
 }
 .shirt-cont {
   display: flex;
